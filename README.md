@@ -50,17 +50,8 @@ These files strengthen the repository by adding a polished communication layer o
 ```text
 ├── Data Findings Report Edder April 30 2025.pdf
 ├── Data Findings Report Edder April 30 2025.pptx
-├── 04-Python-for-Data-Science/
-│   ├── notebooks/
-│   └── assignments/
-├── 06-SQL-Databases/
-│   └── labs/
-├── 10-Applied-Data-Science-Capstone/
-│   ├── notebooks/
-│   ├── presentations/
-│   └── dashboard_app.py
 └── README.md
 ```
 
 ## 📌 Notes
-This repository now includes both technical learning artifacts and presentation deliverables, making it a stronger end-to-end showcase of the IBM Data Science Professional Certificate journey.
+This repository currently exposes these files at the root level in the default branch. Additional coursework folders may exist in other branches or may be added later, but they are not present in the current root structure shown in the repository.
