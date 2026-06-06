@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate - Coursera
 
-This repository serves as a comprehensive record of my journey through the **IBM Data Science Professional Certificate** program. It contains my notebooks, lab exercises, and capstone project materials.
+This repository serves as a comprehensive record of my journey through the **IBM Data Science Professional Certificate** program. It contains my notebooks, lab exercises, capstone project materials, and presentation deliverables completed throughout the program.
 
 ## 📊 Course Progress & Curriculum
 | Course | Title | Status | Key Skills |
@@ -36,15 +36,31 @@ This repository serves as a comprehensive record of my journey through the **IBM
 
 ---
 
+## 🆕 Latest Additions
+The most recent update added presentation-ready deliverables that document data findings and can be used for portfolio sharing or project walkthroughs:
+
+* **Data Findings Report Edder April 30 2025.pdf** — Exported report version of the presentation for easy viewing and sharing.
+* **Data Findings Report Edder April 30 2025.pptx** — Editable slide deck containing the project findings, visual summaries, and presentation materials.
+
+These files strengthen the repository by adding a polished communication layer on top of the technical coursework and analysis artifacts.
+
+---
+
 ## 📂 Repository Structure
 ```text
-├── 04-Python-for-Data-Science
+├── Data Findings Report Edder April 30 2025.pdf
+├── Data Findings Report Edder April 30 2025.pptx
+├── 04-Python-for-Data-Science/
 │   ├── notebooks/
 │   └── assignments/
-├── 06-SQL-Databases
+├── 06-SQL-Databases/
 │   └── labs/
-├── 10-Applied-Data-Science-Capstone
+├── 10-Applied-Data-Science-Capstone/
 │   ├── notebooks/
 │   ├── presentations/
 │   └── dashboard_app.py
 └── README.md
+```
+
+## 📌 Notes
+This repository now includes both technical learning artifacts and presentation deliverables, making it a stronger end-to-end showcase of the IBM Data Science Professional Certificate journey.
